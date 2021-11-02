@@ -1,0 +1,21 @@
+---
+title: "This is for the coursera exam"
+author: "geo"
+date: "02/11/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is an R Markdown file
+###It has multiple headings
+####See?!
+
+I have some points to make:
+- point 1  
+- point 2  
+- point 3 **is very important**  
+- point 4 *is also here*
+
